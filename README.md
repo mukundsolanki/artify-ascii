@@ -2,7 +2,7 @@
 
 `artify-ascii` is a Node.js CLI tool that converts user input into ASCII art and saves it as an image file.
 
-# Installation
+# Installation🛠:
 
 To install `artify-ascii`, use npm:
 
@@ -10,13 +10,13 @@ To install `artify-ascii`, use npm:
 npm install -g artify-ascii
 ```
 
-# Usage
+# Usage:
 
 Once installed globally, you can run `artify` from the command line.
 
 It will ask for text and Style, you can choose from the given options once completed it will save the image in `./output`
 
-# Output
+# Output🔥:
 
 Style : `Standard`
 
