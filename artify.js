@@ -97,5 +97,7 @@ function generateAsciiArt(text, style) {
     fs.writeFileSync(outputFilePath, imageBuffer);
 
     console.log('ASCII art generated and saved as an image:', outputFilePath);
+    console.log(`Want to contribute to artify-ascii?
+visit https://github.com/mukundsolanki/artify-ascii`);
   });
 }
