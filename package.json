@@ -1,6 +1,6 @@
 {
   "name": "artify-ascii",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Node.js CLI tool to convert text into ASCII and then save it as an image",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
