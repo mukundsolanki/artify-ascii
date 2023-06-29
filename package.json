@@ -1,6 +1,6 @@
 {
   "name": "artify-ascii",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js CLI tool to convert text into ASCII and then save it as an image",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,10 @@
   ],
   "author": "Mukund Solanki",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mukndsolanki/artify-ascii"
+  },
   "dependencies": {
     "figlet": "^1.6.0",
     "gradient-string": "^2.0.2",
